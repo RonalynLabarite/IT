@@ -1,0 +1,5 @@
+﻿1. PHP Version: PHP 8.1.6
+2. MYSQL Version: mysqlnd 8.1.6
+3. max_file_uploads	20	20
+4. Server API:	Apache 2.0 Handler
+5. Loaded Configuration File	C:\xampp\php\php.ini
