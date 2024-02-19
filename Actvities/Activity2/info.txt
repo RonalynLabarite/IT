@@ -1,0 +1,5 @@
+PHP Version - 8.1.6
+Mysql Version - 8.1.6
+Maximum File Upload - 20 20
+API Server version - Apache 2.0 Handler
+Php ini Location - C:\xampp\php\php.in
